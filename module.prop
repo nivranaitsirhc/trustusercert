@@ -1,7 +1,7 @@
 id=trustusercert
 name=Trust User Certificate
-version=1.0.0
-versionCode=100000
+version=1.1.0
+versionCode=100100
 author=nivra.naitsirhc
 description=A magisk module that moves user certificates to the system store. As a side-effect this will remove the annoying *Network may be monitored* warning. Great for adblocker that uses redirection method using their local certifcate.
 updateJson=https://raw.githubusercontent.com/nivranaitsirhc/trustusercert/master/update.json
