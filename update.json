@@ -1,6 +1,6 @@
 {
-  "version": "v2.0",
-  "versionCode": 10,
-  "zipUrl": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/install.zip",
-  "changelog": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/changelog.md"
+  "version": "v1.0.0",
+  "versionCode": 100000,
+  "zipUrl": "https://raw.githubusercontent.com/nivranaitsirhc/trustusercert/master/install.zip",
+  "changelog": "https://raw.githubusercontent.com/nivranaitsirhc/trustusercert/master/changelog.md"
 }
