@@ -2,7 +2,7 @@
 ## Description
 A magisk module that moves user certificates to the system store. As a side-effect this will remove the annoying *Network may be monitored* warning. Great for adblocker that uses redirection method using their local root CA certifcate.
 
-Fork from Original Module - https://github.com/Magisk-Modules-Repo/movecert
+Fork from Original Module - <a href=https://github.com/Magisk-Modules-Repo/movecert>Movecert</a>
 
 ## DISCLAMER
 This module is provided as-is. Always use the stable version.
